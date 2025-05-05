@@ -1,0 +1,30 @@
+Behavioral Interaction Engine (BIE)
+│
+├── Core Algebraic Model
+│   └── S = f(α * C + β * K)
+│       ├── C: Cooperation dimension
+│       ├── K: Competition dimension
+│       ├── α: Weight for cooperation
+│       ├── β: Weight for competition
+│       └── f: Non-linear function capturing system dynamics
+│
+├── Agent-Level Specification
+│   ├── Agent characteristics
+│   ├── Preference encoding (α, β)
+│   └── Behavioral input values (C, K)
+│
+├── System-Level Dynamics
+│   ├── Aggregated outcomes (S across agents)
+│   ├── Pattern recognition (e.g., oscillations, equilibria)
+│   └── Emergent properties
+│
+├── Feedback Mechanisms
+│   ├── Temporal adjustment of α, β, C, K
+│   ├── Learning and adaptation loops
+│   └── Environmental influence integration
+│
+└── Domain Applications
+    ├── Economics: collusion vs. rivalry
+    ├── Ecology: symbiosis vs. competition
+    ├── Social networks: collaboration vs. status competition
+    └── Others: customizable domain modeling
