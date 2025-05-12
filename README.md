@@ -15,3 +15,5 @@ Behavioral Interaction Engine represents a significant advancement over traditio
 #
 
 [Behavioral Interaction Engine (BIE)](https://chatgpt.com/g/g-68182e09f374819186bbf50b3fd67eb8-behavioral-interaction-engine)
+<br>
+[Theoretical Engine](https://github.com/s0urceduty/Theoretical_Engine)
